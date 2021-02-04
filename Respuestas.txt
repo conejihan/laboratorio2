@@ -1,2 +1,4 @@
 * Busque cuál es el objetivo del parámetro "package" y qué otros parámetros se podrían enviar al comando mvn.
-El parametro package sirve para generar el jar del proyecto. 
+El parametro package sirve para generar el jar del proyecto. Otros parametros que se podrian enviar son clean, compile, install, deploy, javadoc, site, eclipse e idea.
+
+*Busque cómo ejecutar desde línea de comandos, un proyecto maven y verifique la salida cuando se ejecuta con la clase App.java como parámetro en "mainClass".

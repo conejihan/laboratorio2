@@ -1,1 +1,10 @@
+edu\eci\cvds\shapes\concrete\Quadrilateral.class
+edu\eci\cvds\shapes\concrete\Hexagon.class
+edu\eci\cvds\shapes\RegularShapeType.class
+edu\eci\cvds\shapes\ShapeMain.class
+edu\eci\cvds\shapes\ShapeFactory.class
+edu\eci\cvds\shapes\Shape.class
 edu\eci\cvds\App.class
+edu\eci\cvds\shapes\concrete\Pentagon.class
+edu\eci\cvds\shapes\ShapeFactory$1.class
+edu\eci\cvds\shapes\concrete\Triangle.class
